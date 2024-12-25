@@ -1,4 +1,4 @@
-﻿Log file open, 12/25/24 22:14:06
+Log file open, 12/25/24 22:14:06
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
