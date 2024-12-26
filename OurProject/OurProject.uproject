@@ -61,6 +61,10 @@
 		{
 			"Name": "ActorSequence",
 			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
